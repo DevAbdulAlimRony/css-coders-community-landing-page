@@ -1,4 +1,4 @@
-# coders-community-landing-page
+# Coders Community Landing Page
 The Single Page Portfolio is made by HTML, CSS, Bootstrap and Javascript. It was the first noob level project of my own. 
 
 Live Link: https://devabdulalimrony.github.io/coders-community-landing-page/
